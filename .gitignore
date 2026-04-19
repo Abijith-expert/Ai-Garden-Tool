@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+
+# Uploads (generated files)
+uploads/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Plant dataset (too large for git)
+plants_dataset/
+
+# IDE
+.vscode/
+.idea/
